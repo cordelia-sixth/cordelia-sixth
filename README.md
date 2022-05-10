@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm an eternal learner.
 
 <!--
 **cordelia-sixth/cordelia-sixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
