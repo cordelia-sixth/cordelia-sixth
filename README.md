@@ -1,5 +1,5 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Cordelia%F0%9F%8D%80)](https://git.io/typing-svg)  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Cordelia%F0%9F%8D%80" alt="Typing SVG" /></a>
 </p>
 
 ## My skills
