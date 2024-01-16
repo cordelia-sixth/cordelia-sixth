@@ -1,6 +1,9 @@
 <!-- Header -->
 <p>
-  Hello! I'm cordelia!
+  <h1>
+  Hello! I'm cordelia!  
+  </h1>
+  
 </p>
 
 <!-- Social icons -->
