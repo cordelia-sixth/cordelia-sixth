@@ -6,9 +6,7 @@
 </p>
 
 <p>
-<div align="right">
   ![gif](https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/1f6c78c6-4951-4d36-8be8-69df4c38de16)
-</div>
   
 </p>
 
