@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=1500&pause=2500&color=08273E&center=true&vCenter=true&random=false&width=436&height=100&lines=Hello!+I'm+cordelia!" alt="Typing SVG" /></a>
 </p>
 
