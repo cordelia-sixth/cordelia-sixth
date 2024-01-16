@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
-![Most Used Languages](https://raw.githubusercontent.com/cordelia-sixth/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordelia_sixth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cordelia-sixth/cordelia-sixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
