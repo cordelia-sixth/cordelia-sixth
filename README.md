@@ -1,4 +1,4 @@
-Hi, I'm a developer 🌱
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&random=false&width=435&lines=Hello!+I'm+Cordelia%F0%9F%8D%80)](https://git.io/typing-svg)
 
 ## My skills
 
