@@ -1,7 +1,7 @@
 <!-- Header -->
 <p>
-  <h1>
-  Hello! I'm cordelia!  
+  <h1 style="none">
+   Hello! I'm cordelia!  
   </h1>
   
 </p>
