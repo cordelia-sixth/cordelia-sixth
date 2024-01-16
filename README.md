@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=1C84CF&center=true&vCenter=true&random=false&width=436&height=500&lines=Hello!+I'm+cordelia!" alt="Typing SVG" /></a>
+<p align="center" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=1000&color=1C84CF&center=true&vCenter=true&random=false&width=436&height=500&lines=Hello!+I'm+cordelia!" alt="Typing SVG" /></a>
 </p>
 
 ## My skills
