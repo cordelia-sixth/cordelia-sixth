@@ -1,10 +1,12 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&background=2A2A2A&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+cordelia%F0%9F%8D%80" width="100%;" display="flex;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=1C84CF&center=true&vCenter=true&random=false&width=436&height=500&lines=Hello!+I'm+cordelia!" alt="Typing SVG" /></a>
 </p>
 
 ## My skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordelia-sixth)](https://github.com/cordelia-sixth/github-readme-stats)
 
 <!--
 **cordelia-sixth/cordelia-sixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
