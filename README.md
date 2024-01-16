@@ -1,15 +1,10 @@
 <!-- Header -->
-<p style="font-size:100px">
-  <strong>
-    Hi! I'm cordelia!
-  </strong>
-</p>
+# Hi! I'm cordelia!
 
 <p>
-<div align="right">
-  ![WBVi](https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/99ac7bcd-ae34-40a3-b910-e6e228e5471c)
-</div>
-  
+  <div align="right">
+    <img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/99ac7bcd-ae34-40a3-b910-e6e228e5471c" width="200px" />
+  </div>
 </p>
 
 
