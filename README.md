@@ -4,10 +4,7 @@
 </p>
 
 <!-- Social icons -->
-<p align="center">
-  [![x](./assets/zenn-logo.svg)]()
-</p>
-
+<img align="center" alt="x" src="https://raw.githubusercontent.com/cordelia-sixth/cordelia-sixth/main/zenn-logo.svg" width="360px"/>
 <!--
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
