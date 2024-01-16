@@ -1,6 +1,8 @@
 <!-- Header -->
 <p style="font-size:100px">
-  Hi! I'm cordelia!
+  <strong>
+    Hi! I'm cordelia!
+  </strong>
 </p>
 
 <!-- Social icons -->
