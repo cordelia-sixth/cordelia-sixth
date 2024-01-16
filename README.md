@@ -1,9 +1,6 @@
 <!-- Header -->
-<p>
-  <h1 style="none">
-   Hello! I'm cordelia!  
-  </h1>
-  
+<p style="font-size:100px">
+  Hi! I'm cordelia!
 </p>
 
 <!-- Social icons -->
