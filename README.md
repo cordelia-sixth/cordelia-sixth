@@ -1,21 +1,46 @@
-<!-- Header -->
-# Hi! I'm cordelia!
+# Hi, I'm cordelia!
 
 <p>
-  <div align="right">
-    <img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/99ac7bcd-ae34-40a3-b910-e6e228e5471c" width="200px" />
+  I am a front-end developer. I'll be developing various applications and tools!!
+  <img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/3752b983-1c22-481e-a4e7-a3cdf5b70883" align="right" width="40%" />
+</p>
+<p>
+  <div align="left">
+    <a href="https://twitter.com/cordelia_sixth" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/de027ed7-d31d-4d13-9f78-349e05ee4c7d" width="24" alt="X" /></a>
+    <a href="https://zenn.dev/cordelia" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/4967875b-d0d5-49aa-962f-a1be71b1f606" width="24" alt="zenn" /></a>
+    <a href="https://www.cordelia.dev/blog" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/79f83fc3-4bb4-4173-842e-c50c6ec3ab7e" width="24" alt="My website" /></a>
   </div>
 </p>
 
+<p>
+  <h2>Things I love</h4>
+    <p>🖥 Development is my passion!</p>
+    <p>🎤 To sing Karaoke</p>
+    <p>☘️ A stroll outsite</p>
+    <p>🦥<a href="https://www.youtube.com/results?search_query=sloth" target="_blank"> Sloths </a></p>
+</p>
 
-<!-- Social icons -->
+<!--
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordelia-sixth&layout=donut&hide=ruby,php" height="228px"  />
+</p>
+-->
 
-<a href="https://zenn.dev/cordelia">
-  <img width="50px" src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/891779b3-82c9-4c9e-8462-8f88db678cda"/>
-</a>
+<br>
+
+## Tools I use
+🚧 Getting Ready 🚧
+
+<br>
+
+## Recent Posts
+🚧 Getting Ready 🚧
 
 
-
+<!-- 
+<img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/99ac7bcd-ae34-40a3-b910-e6e228e5471c" align="right" width="300px" height="100px" />
+<img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/583111a8-868e-424e-af32-fd39317185fb" align="right" width="40%" />
+-->
 
 
 
@@ -23,11 +48,7 @@
 <!--
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordelia-sixth&hide=ruby,php)](https://github.com/cordelia-sixth/github-readme-stats)
-
-<!--
 **cordelia-sixth/cordelia-sixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
