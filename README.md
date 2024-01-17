@@ -6,11 +6,12 @@
 </p>
 <p>
   <div align="left">
-    <a href="https://twitter.com/cordelia_sixth" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/de027ed7-d31d-4d13-9f78-349e05ee4c7d" width="24" alt="X" /></a>
-    <a href="https://zenn.dev/cordelia" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/4967875b-d0d5-49aa-962f-a1be71b1f606" width="24" alt="zenn" /></a>
-    <a href="https://www.cordelia.dev/blog" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/79f83fc3-4bb4-4173-842e-c50c6ec3ab7e" width="24" alt="My website" /></a>
+    <a href="https://twitter.com/cordelia_sixth" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/c7da10d5-e39d-42b4-b600-ae94d08dd385" width="22" alt="X" /></a>
+    <a href="https://zenn.dev/cordelia" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/4967875b-d0d5-49aa-962f-a1be71b1f606" width="22" alt="zenn" /></a>
+    <a href="https://www.cordelia.dev/blog" target="_blank"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/79f83fc3-4bb4-4173-842e-c50c6ec3ab7e" width="22" alt="My website" /></a>
   </div>
 </p>
+
 
 <p>
   <h2>Things I love</h4>
