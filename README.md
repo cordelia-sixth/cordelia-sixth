@@ -17,7 +17,7 @@
     <p>🖥 Development is my passion!</p>
     <p>🎤 To sing Karaoke</p>
     <p>☘️ A stroll outsite</p>
-    <p>🦥<a href="https://www.youtube.com/results?search_query=sloth" target="_blank"> Sloths </a></p>
+    <p>🦥<a href="https://www.youtube.com/results?search_query=sloth+cute" target="_blank"> Sloths </a></p>
 </p>
 
 <!--
