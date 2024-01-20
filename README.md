@@ -16,7 +16,7 @@
   <h2>Things I love</h4>
     <p>🖥 Development is my passion!</p>
     <p>🎤 To sing Karaoke</p>
-    <p>☘️ A stroll outsite</p>
+    <p>☘️ A stroll outside</p>
     <p>🦥<a href="https://www.youtube.com/results?search_query=sloth+cute" target="_blank"> Sloths </a></p>
 </p>
 
@@ -32,8 +32,10 @@
 
 <br>
 
-## Recent Posts
-🚧 Getting Ready 🚧
+## Latest Posts
+<a href="https://zenn.dev/cordelia/articles/1bbe6613e4376f"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/4967875b-d0d5-49aa-962f-a1be71b1f606" width="14" alt="zenn" /> ESLintカスタムルールの作り方</a>
+
+
 
 <!--
 ## My skills
