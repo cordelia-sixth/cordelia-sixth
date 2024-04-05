@@ -16,7 +16,7 @@
   <h2>Things I love</h4>
     <p>🖥 Development is my passion!</p>
     <p>🎤 To sing Karaoke</p>
-    <p>☘🌹 Flower arrangement</p>
+    <p>🌹 Flower arrangement</p>
     <p>🦥<a href="https://www.youtube.com/results?search_query=sloth+cute" target="_blank"> Sloths </a></p>
 </p>
 
