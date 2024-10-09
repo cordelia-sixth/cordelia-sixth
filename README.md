@@ -2,7 +2,7 @@
 
 <p>
   I am a front-end developer. I'll be developing various applications and tools!!
-  <img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/3752b983-1c22-481e-a4e7-a3cdf5b70883" align="right" width="40%" />
+  <!-- <img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/3752b983-1c22-481e-a4e7-a3cdf5b70883" align="right" width="40%" /> -->
 </p>
 <p>
   <div align="left">
@@ -37,9 +37,8 @@
 <br>
 
 ## Latest Posts
-<a href="https://zenn.dev/cordelia/articles/1bbe6613e4376f"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/4967875b-d0d5-49aa-962f-a1be71b1f606" width="14" alt="zenn" /> ESLintカスタムルールの作り方</a>
 
-
+<a href="https://zenn.dev/cordelia/articles/1bbe6613e4376f"><img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/4967875b-d0d5-49aa-962f-a1be71b1f606" width="14" alt="zenn" /> ESLint カスタムルールの作り方</a>
 
 <!--
 ## My skills
