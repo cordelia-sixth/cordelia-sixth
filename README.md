@@ -14,8 +14,9 @@
 
 <p>
   <h2>Things I love</h4>
-    <p>🖥 Development is my passion!</p>
-    <p>🎤 To sing Karaoke</p>
+  <ul>
+    <li>Development is my passion 🖥 </li>
+    <li>To sing Karaoke 🎤</li>
 </p>
 
 <!--
