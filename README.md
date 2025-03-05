@@ -1,7 +1,7 @@
 <h1>Hi, I'm cordelia!</h1>
 
 <p>
-  I am a front-end developer. I'll be developing various applications and tools!!
+  I'm a web developer. I'll be developing website, applications and library!!
   <!-- <img src="https://github.com/cordelia-sixth/cordelia-sixth/assets/80014084/3752b983-1c22-481e-a4e7-a3cdf5b70883" align="right" width="40%" /> -->
 </p>
 <p>
@@ -16,8 +16,6 @@
   <h2>Things I love</h4>
     <p>🖥 Development is my passion!</p>
     <p>🎤 To sing Karaoke</p>
-    <p>🌹 Flower arrangement</p>
-    <p>🦥<a href="https://www.youtube.com/results?search_query=sloth+cute" target="_blank"> Sloths </a></p>
 </p>
 
 <!--
